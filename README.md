@@ -80,9 +80,23 @@ npx expo start
 ---
 
 ## 🎬 Screenshots
-(Add screenshots of Login, Post List, Post Detail, and Counter here for maximum impact!)
+
+Here are the main screens of the app:
+
+### 🔑 Login Screen
+![Login Screen](a.png)
+
+### 📜 Post List Screen
+![Post List](b.png)
+
+### 📝 Post Detail Screen
+![Post Detail](c.png)
+
+### ➕➖ Counter Screen
+![Counter](d.png)
 
 ---
+
 
 ## 📹 Demo Video
 A short video demonstration of the app is available here:  
