@@ -1,4 +1,4 @@
-# 📱 React Native Practical Task – Demo App
+# 📱 React Native Practical Task App
 
 A clean and simple React Native application built as part of a practical task.  
 This project demonstrates **core mobile development skills**: navigation, API integration, state handling, and modern UI design.
@@ -101,5 +101,5 @@ This project shows:
 ---
 
 ## ✨ Author
-👤 **Your Name**  
-🔗 Portfolio/GitHub/LinkedIn  
+👤 **Kamal**  
+
