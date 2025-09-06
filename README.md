@@ -84,7 +84,7 @@ npx expo start
 Here are the main screens of the app:
 
 ### 🔑 Login Screen
-![Login Screen](a.png)
+![Login Screen](z.png)
 
 ### 📜 Post List Screen
 ![Post List](b.png)
