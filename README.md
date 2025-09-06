@@ -70,7 +70,7 @@ cd react-native-practical-task
 yarn install
 
 # 3. Start project
-npx expo start
+yarn expo start
 ```
 
 ### Run on:
